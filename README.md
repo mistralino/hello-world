@@ -1,2 +1,3 @@
 # hello-world
 my test repository
+Hello, I am learning a bit about git and for this creating a kind of sandbox...
